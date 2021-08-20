@@ -4,9 +4,9 @@
     background-color:grey;
 }
 .sidebar {
-    width:17%;
-    height:auto;
-    min-height:400px;
-    float:left;
-    background-color:#9187ff;
+		background-color:#2EE59D;
+		min-height:400px;
+		height:auto;
+		width:17%;
 }
+    
