@@ -1,5 +1,5 @@
 body {
-background-color:black;
+background-image: linear-gradient( 135deg, #EEAD92 10%, #6018DC 100%);
 }
 * {
     margin: 0;
