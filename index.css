@@ -1,9 +1,5 @@
-.back {
-background-image: linear-gradient( 135deg, #EEAD92 10%, #6018DC 100%);
-background-repeat:no-repeat;
-background-size:auto;
-width:100%;
-height:100%;
+.body {
+background-color:#3d3c66;
 }
 * {
     margin: 0;
