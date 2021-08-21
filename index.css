@@ -1,4 +1,4 @@
-.body {
+body {
 background-color:black;
 }
 * {
@@ -12,7 +12,7 @@ background-color:black;
     width:50%;
     height:auto;
     min-height:300px;
-    background-color:white;
+    background-color:grey;
 }
 .head {
     width:100%;
