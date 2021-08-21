@@ -10,6 +10,7 @@ background-color:#ebd9d8;
     margin-top:20px;
     margin-left:auto;
     width:50%;
+    border-radius:12px;
     height:auto;
     min-height:300px;
     background-color:#b8bcff;
@@ -22,7 +23,6 @@ background-color:#ebd9d8;
     margin-left:5px;
     margin-right:5px;
     background-color:grey;
-    border-radius:12px;
 }
 .sidebar {
     margin-top:10px;
