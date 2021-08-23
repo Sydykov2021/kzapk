@@ -80,6 +80,7 @@ background-color:#ebd9d8;
     float:right;
     width:30%;
     height:auto;
+    border-radius:9px;
     min-height:150px;
     background-color:#9197ff;
 }
