@@ -5,6 +5,13 @@ background-color:#ebd9d8;
     margin: 0;
     padding: 0;
    }
+.downloadbutton{
+   background-color:#3d3c66;
+   border-radius:7px;
+   width:40px;
+   height:auto;
+   min-height:20px;
+}
 .floating-button {
   text-decoration: none;
   display: inline-block;
